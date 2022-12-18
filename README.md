@@ -8,9 +8,6 @@
   - [Steps to Run](#steps-to-run)
     - [1. Clone the repository](#1-clone-the-repository)
     - [2. Install the necessary packages](#2-install-the-necessary-packages)
-      - [2.a. Create a virtual environment](#2a-create-a-virtual-environment)
-      - [2.b. Source onto that environment](#2b-source-onto-that-environment)
-      - [2.c. Pip install the necessary packages](#2c-pip-install-the-necessary-packages)
     - [3. Run jupyter notebook](#3-run-jupyter-notebook)
   - [References](#references)
 
@@ -66,17 +63,17 @@ The description for the different variables used in our dataset can be found on 
 
 ### 2. Install the necessary packages
 
-#### 2.a. Create a virtual environment
+**2.a. Create a virtual environment**
 
 ```python3 -m venv <env_name>```
 
-#### 2.b. Source onto that environment
+**2.b. Source onto that environment**
 
 ```source <env_name>/bin/activate```
 
-#### 2.c. Pip install the necessary packages
+**2.c. Pip install the necessary packages**
 
-```pip3 install -r requirements.txt```
+```pip3 install --upgrade pip | pip3 install -r requirements.txt```
 
 ### 3. Run jupyter notebook
 
