@@ -17,7 +17,7 @@
  - Advaith Rao
  - Ayush Oturkar
  - Falgun Malhotra
- - Hsiao-Chun Hung
+ - Hsiao-Chun Hung (Jeanie)
  - Vanshita Gupta
 
 ## Problem Statement
