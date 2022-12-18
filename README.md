@@ -47,7 +47,11 @@ To achieve this goal, we worked on the following tasks (but not restricted to):
 
 ## Implementation
 
-Kindly find our implementation in this IPython notebook [here](https://github.com/FalgunMalhotra/StatisticalAndPredictiveAnalysisOfSongPopularity/blob/main/Notebook/main.ipynb).
+Kindly find our implementation in this IPython notebook [here]
+(https://github.com/FalgunMalhotra/StatisticalAndPredictiveAnalysisOfSongPopularity/blob/main/Notebook/main.ipynb).
+
+You could find our post-completion report [here]
+(https://github.com/FalgunMalhotra/StatisticalAndPredictiveAnalysisOfSongPopularity/blob/main/Report/report.pdf).
 
 ## Dataset
  
