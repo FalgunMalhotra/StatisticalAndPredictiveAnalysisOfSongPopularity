@@ -1,5 +1,19 @@
 # Statistical And Predictive Analysis Of Song Popularity
 
+- [Statistical And Predictive Analysis Of Song Popularity](#statistical-and-predictive-analysis-of-song-popularity)
+  - [Team](#team)
+  - [Problem Statement](#problem-statement)
+  - [Implementation](#implementation)
+  - [Dataset](#dataset)
+  - [Steps to Run](#steps-to-run)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Install the necessary packages](#2-install-the-necessary-packages)
+      - [2.a. Create a virtual environment](#2a-create-a-virtual-environment)
+      - [2.b. Source onto that environment](#2b-source-onto-that-environment)
+      - [2.c. Pip install the necessary packages](#2c-pip-install-the-necessary-packages)
+    - [3. Run jupyter notebook](#3-run-jupyter-notebook)
+  - [References](#references)
+
 
 ## Team
  
